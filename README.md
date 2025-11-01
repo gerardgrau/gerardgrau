@@ -38,7 +38,7 @@ I'm a Microsoft intern pursuing a dual degree in Data Science & Engineering and 
   - **Technologies:** Graph Algorithms, Wavelength Optimization, Python
   - **Key Challenge:** Optimizing wavelength allocation while maximizing service continuity
 
-* [**Chip Power Delivery Optimization**](https://github.com/NIU1668278/Qualcomm-Challenge-) - _Datathon FME 2022_  
+* [**Chip Power Delivery Optimization**](https://github.com/marc-herrero/Qualcomm-Challenge-) - _Datathon FME 2022_  
   Solution to a variation of the Traveling Salesman Problem using Genetic Algorithms and Simulated Annealing.
   - **Technologies:** Genetic Algorithms, Simulated Annealing, Python
   - **Role:** Algorithm design and implementation

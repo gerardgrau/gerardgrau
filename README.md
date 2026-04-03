@@ -6,7 +6,7 @@ I'm a Microsoft intern pursuing a dual degree in Data Science & Engineering and 
 ## 🎓 Education
 - **Double Bachelor's Degree in Data Science & Engineering, and in Mathematics**  
   Universitat Politècnica de Catalunya (UPC Barcelona)  
-  Expected Graduation: February 2027
+  Expected Graduation: June 2027
 
 ## 💻 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

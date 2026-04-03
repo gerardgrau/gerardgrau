@@ -28,30 +28,30 @@ I'm a Microsoft intern pursuing a dual degree in Data Science & Engineering and 
   - **Technologies:** PyTorch, CLIP, XGBoost, OpenCV, Streamlit
   - **Key Achievement:** 🏆 1st Place Winner at Datathon FME 2024
 
-* [**Street Style Decoder**](https://github.com/gerard-grau/HackUPC2024) - _HackUPC 2024_  
+* [**Street Style Decoder**](https://github.com/gerardgrau/HackUPC2024) - _HackUPC 2024_  
   App that identifies clothing items from photos and recommends similar products from retail catalogs.
   - **Technologies:** CLIP, U-NET Semantic Segmentation, PyTorch, Cosine Similarity
   - **Role:** Developed the semantic segmentation component to isolate clothing items
 
-* [**LightChaser**](https://github.com/gerard-grau/LightChaser_2024-France-Tech-Arena) - _2024 France Tech Arena_  
+* [**LightChaser**](https://github.com/gerardgrau/LightChaser_2024-France-Tech-Arena) - _2024 France Tech Arena_  
   Network optimization solution using modified Dijkstra's algorithm to replan service paths after fiber failures.
   - **Technologies:** Graph Algorithms, Wavelength Optimization, Python
   - **Key Challenge:** Optimizing wavelength allocation while maximizing service continuity
 
-* [**Chip Power Delivery Optimization**](https://github.com/marc-herrero/Qualcomm-Challenge-) - _Datathon FME 2022_  
+* [**Chip Power Delivery Optimization**](https://github.com/NIU1668278/Qualcomm-Challenge-) - _Datathon FME 2022_  
   Solution to a variation of the Traveling Salesman Problem using Genetic Algorithms and Simulated Annealing.
   - **Technologies:** Genetic Algorithms, Simulated Annealing, Python
   - **Role:** Algorithm design and implementation
 
 ### AI & Machine Learning Projects
 
-* [**Song Popularity Predictor**](https://github.com/gerard-grau/song-popularity-predictor)  
+* [**Song Popularity Predictor**](https://github.com/gerardgrau/song-popularity-predictor)  
   Machine learning project predicting Taylor Swift's song popularity using classical ML models.
   - **Technologies:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn
   - **Models:** Linear models, decision trees, ensemble methods, support vector machines
   - **Process:** Data preprocessing, feature engineering, model training and evaluation
 
-* [**SIAM Student Programming Competition**](https://github.com/gerard-grau/SIAGFME-code-quest-2023)  
+* [**SIAM Student Programming Competition**](https://github.com/gerardgrau/siam-competition)  
   Automated Market Maker (AMM) simulation with evolutionary optimization for liquidity provision strategies.
   - **Technologies:** Python, NumPy, Pandas, Evolutionary Algorithms
   - **Key Features:** Conditional Value at Risk (CVaR) optimization, market dynamics simulation
@@ -64,12 +64,12 @@ I'm a Microsoft intern pursuing a dual degree in Data Science & Engineering and 
 
 ### Application Development
 
-* [**Workgroup Manager**](https://github.com/gerard-grau/workgroup-manager)  
+* [**Workgroup Manager**](https://github.com/gerardgrau/workgroup-manager)  
   Cross-platform desktop application for coordinating student group projects and visualizing member availability.
   - **Technologies:** Python, tkinter, MySQL
   - **Key Features:** Visual calendar for group availability, user accounts with authentication, group administration tools
 
-* [**Cinebus**](https://github.com/gerard-grau/cinebus)  
+* [**Cinebus**](https://github.com/gerardgrau/cinebus)  
   Desktop app for finding movie listings with optimized public transport routes to cinemas in Barcelona.
   - **Technologies:** Python, BeautifulSoup, NetworkX, tkinter
   - **Key Features:** Real-time movie listings via web scraping, integrated bus network navigation, interactive city map visualization

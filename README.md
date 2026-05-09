@@ -18,6 +18,11 @@ I'm a Microsoft intern pursuing a dual degree in Data Science & Engineering and 
 
 ### Hackathon & Competition Projects
 
+* [**guAIta**](https://github.com/guimCC/guAIta) - _HackUPC 2026_  
+  Edge AI monitoring proof of concept for Collserola wild boar detection and operational response. Replaces costly manual surveillance with targeted, event-driven responses using local on-device inference.
+  - **Technologies:** Node.js, Fastify, React, Arduino UNO Q, Edge Impulse, SQLite, Socket.IO
+  - **Key Achievement:** 🏆 3rd Place Winner - Qualcomm Challenge
+
 * [**SoLatAm**](https://github.com/marc-herrero/UAB-the-hack25) - _UAB THE HACK Hackathon 2025_  
   AI-Powered Renewable Energy Transition Platform for Latin American communities.
   - **Technologies:** Python, NASA POWER API, OpenAI, Computer Vision, Streamlit, Folium

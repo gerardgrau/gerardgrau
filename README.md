@@ -1,7 +1,7 @@
 # Gerard Grau
 
 ## 👋 About Me
-I'm a Microsoft intern pursuing a dual degree in Data Science & Engineering and Mathematics at UPC Barcelona. Passionate about AI, machine learning, and innovative technology solutions. I enjoy tackling complex problems and creating applications that make a positive impact.
+I'm a past Microsoft and Revolut intern pursuing a dual degree in Data Science & Engineering and Mathematics at UPC Barcelona. Passionate about AI, machine learning, and innovative technology solutions. I enjoy tackling complex problems and creating applications that make a positive impact.
 
 ## 🎓 Education
 - **Double Bachelor's Degree in Data Science & Engineering, and in Mathematics**  
